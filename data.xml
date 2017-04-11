@@ -1,6 +1,6 @@
 <testdata>
-    <vars summary="1351040_Summary_11"/>
-    <vars summary="1351040_Summary_12"/>
-    <vars summary="1351040_Summary_13"/>
-    <vars summary="1351040_Summary_14"/>
+    <vars summary="1351040_Summary_11" note="1351040_Summary_11_note_meow"/>
+    <vars summary="1351040_Summary_12" note="1351040_Summary_12_note_meow"/>
+    <vars summary="1351040_Summary_13" note="1351040_Summary_13_note_meow"/>
+    <vars summary="1351040_Summary_14" note="1351040_Summary_14_note_meow"/>
 </testdata>
