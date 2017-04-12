@@ -1,25 +1,25 @@
 <testdata>
-    <vars summary="1351040_Summary_Reproducibility_112_100" reproducibility="label=always" severity="label=feature" priority="label=none"/>
-    <vars summary="1351040_Summary_Reproducibility_113_100" reproducibility="label=sometimes" severity="label=feature" priority="label=none"/>
-    <vars summary="1351040_Summary_Reproducibility_114_100" reproducibility="label=have not tried" severity="label=feature" priority="label=none"/>
-    <vars summary="1351040_Summary_Reproducibility_115_100" reproducibility="label=unable to reproduce" severity="label=feature" priority="label=none"/>
-    <vars summary="1351040_Summary_Reproducibility_116_100" reproducibility="label=N/A" severity="label=feature" priority="label=none"/>
+    <vars summary="1351040_Summary_Reproducibility_112_101" reproducibility="label=always" severity="label=feature" priority="label=none"/>
+    <vars summary="1351040_Summary_Reproducibility_113_101" reproducibility="label=sometimes" severity="label=feature" priority="label=none"/>
+    <vars summary="1351040_Summary_Reproducibility_114_101" reproducibility="label=have not tried" severity="label=feature" priority="label=none"/>
+    <vars summary="1351040_Summary_Reproducibility_115_101" reproducibility="label=unable to reproduce" severity="label=feature" priority="label=none"/>
+    <vars summary="1351040_Summary_Reproducibility_116_101" reproducibility="label=N/A" severity="label=feature" priority="label=none"/>
 
-    <vars summary="1351040_Summary_Severity_112_100" reproducibility="label=always" severity="label=feature" priority="label=none"/>
-    <vars summary="1351040_Summary_Severity_113_100" reproducibility="label=always" severity="label=trivial" priority="label=none"/>
-    <vars summary="1351040_Summary_Severity_114_100" reproducibility="label=always" severity="label=text" priority="label=none"/>
-    <vars summary="1351040_Summary_Severity_115_100" reproducibility="label=always" severity="label=tweak" priority="label=none"/>
-    <vars summary="1351040_Summary_Severity_116_100" reproducibility="label=always" severity="label=minor" priority="label=none"/>
-    <vars summary="1351040_Summary_Severity_117_100" reproducibility="label=always" severity="label=major" priority="label=none"/>
-    <vars summary="1351040_Summary_Severity_118_100" reproducibility="label=always" severity="label=crash" priority="label=none"/>
-    <vars summary="1351040_Summary_Severity_119_100" reproducibility="label=always" severity="label=block" priority="label=none"/>
+    <vars summary="1351040_Summary_Severity_112_101" reproducibility="label=always" severity="label=feature" priority="label=none"/>
+    <vars summary="1351040_Summary_Severity_113_101" reproducibility="label=always" severity="label=trivial" priority="label=none"/>
+    <vars summary="1351040_Summary_Severity_114_101" reproducibility="label=always" severity="label=text" priority="label=none"/>
+    <vars summary="1351040_Summary_Severity_115_101" reproducibility="label=always" severity="label=tweak" priority="label=none"/>
+    <vars summary="1351040_Summary_Severity_116_101" reproducibility="label=always" severity="label=minor" priority="label=none"/>
+    <vars summary="1351040_Summary_Severity_117_101" reproducibility="label=always" severity="label=major" priority="label=none"/>
+    <vars summary="1351040_Summary_Severity_118_101" reproducibility="label=always" severity="label=crash" priority="label=none"/>
+    <vars summary="1351040_Summary_Severity_119_101" reproducibility="label=always" severity="label=block" priority="label=none"/>
 
-    <vars summary="1351040_Summary_priority_111_100" reproducibility="label=always" severity="label=block" priority="label=none"/>
-    <vars summary="1351040_Summary_priority_112_100" reproducibility="label=always" severity="label=block" priority="label=low"/>
-    <vars summary="1351040_Summary_priority_113_100" reproducibility="label=always" severity="label=block" priority="label=normal"/>
-    <vars summary="1351040_Summary_priority_114_100" reproducibility="label=always" severity="label=block" priority="label=high"/>
-    <vars summary="1351040_Summary_priority_115_100" reproducibility="label=always" severity="label=block" priority="label=urgent"/>
-    <vars summary="1351040_Summary_priority_116_100" reproducibility="label=always" severity="label=block" priority="label=immediate"/>
+    <vars summary="1351040_Summary_priority_111_101" reproducibility="label=always" severity="label=block" priority="label=none"/>
+    <vars summary="1351040_Summary_priority_112_101" reproducibility="label=always" severity="label=block" priority="label=low"/>
+    <vars summary="1351040_Summary_priority_113_101" reproducibility="label=always" severity="label=block" priority="label=normal"/>
+    <vars summary="1351040_Summary_priority_114_101" reproducibility="label=always" severity="label=block" priority="label=high"/>
+    <vars summary="1351040_Summary_priority_115_101" reproducibility="label=always" severity="label=block" priority="label=urgent"/>
+    <vars summary="1351040_Summary_priority_116_101" reproducibility="label=always" severity="label=block" priority="label=immediate"/>
 
-    
+
 </testdata>

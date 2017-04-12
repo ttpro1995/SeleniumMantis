@@ -4,21 +4,21 @@
 <head profile="http://selenium-ide.openqa.org/profiles/test-case">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link rel="selenium.base" href="http://www.cs.hcmus.edu.vn/" />
-<title>ReportIssue(backup)</title>
+<title>uploadfile</title>
 </head>
 <body>
 <table cellpadding="1" cellspacing="1" border="1">
 <thead>
-<tr><td rowspan="1" colspan="3">ReportIssue(backup)</td></tr>
+<tr><td rowspan="1" colspan="3">uploadfile</td></tr>
 </thead><tbody>
 <tr>
-	<td>forXml</td>
-	<td>file://d:/APCS/Software testing/Selenium/HW5/report_issue_data.xml</td>
+	<td>open</td>
+	<td>/mantisbt/login_page.php</td>
 	<td></td>
 </tr>
 <tr>
-	<td>open</td>
-	<td>/mantisbt/login_page.php?return=%2Fmantisbt%2Fmy_view_page.php</td>
+	<td>click</td>
+	<td>name=login_form</td>
 	<td></td>
 </tr>
 <tr>
@@ -68,18 +68,18 @@
 </tr>
 <tr>
 	<td>select</td>
-	<td>name=severity</td>
-	<td>${severity}</td>
+	<td>name=reproducibility</td>
+	<td>label=random</td>
 </tr>
 <tr>
 	<td>select</td>
-	<td>name=reproducibility</td>
-	<td>${reproducibility}</td>
+	<td>name=severity</td>
+	<td>label=text</td>
 </tr>
 <tr>
 	<td>select</td>
 	<td>name=priority</td>
-	<td>${priority}</td>
+	<td>label=low</td>
 </tr>
 <tr>
 	<td>type</td>
@@ -94,17 +94,27 @@
 <tr>
 	<td>type</td>
 	<td>id=os_build</td>
+	<td>1351040_Summary_</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=os_build</td>
 	<td>1351040_10.0.143</td>
 </tr>
 <tr>
 	<td>type</td>
 	<td>name=summary</td>
-	<td>${summary}</td>
+	<td>1351040_Summary_uploadfile</td>
 </tr>
 <tr>
 	<td>type</td>
 	<td>name=description</td>
-	<td>${summary}</td>
+	<td>1351040_Summary_uploadfile</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=ufile[]</td>
+	<td>D:\APCS\Software testing\Selenium\HW5\abc.txt</td>
 </tr>
 <tr>
 	<td>clickAndWait</td>
@@ -116,11 +126,7 @@
 	<td>link=Logout</td>
 	<td></td>
 </tr>
-<tr>
-	<td>endForXml</td>
-	<td></td>
-	<td></td>
-</tr>
+
 </tbody></table>
 </body>
 </html>
